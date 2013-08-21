@@ -1,11 +1,11 @@
 teamforge-tools Cookbook
 ========================
-TODO: This cookbook is for manipulating teamforge tools.  It DOES NOT install TeamForge, Subversion or any software products.
+This cookbook is for manipulating teamforge tools.  It DOES NOT install TeamForge, Subversion or any software products.
 
 
 Requirements
 ------------
-TODO: This cookbook makes extensive use of Ruby savon for creating and manipulating SOAP responses.  This gem should automatically be installed when this package is installed but if it doesn't...
+This cookbook makes extensive use of Ruby savon for creating and manipulating SOAP responses.  This gem should automatically be installed when this package is installed but if it doesn't...
 
 
 To operate this package requires three things:  TeamForge url, username and password. It's recommended that you use an encryted data bag... but not required. They are passed as attributes.
@@ -69,15 +69,7 @@ end
 
 Contributing
 ------------
-TODO: (optional) If this is a public cookbook, detail the process for contributing. If this is a private cookbook, remove this section.
-
-e.g.
-1. Fork the repository on Github
-2. Create a named feature branch (like `add_component_x`)
-3. Write you change
-4. Write tests for your change (if applicable)
-5. Run the tests, ensuring they all pass
-6. Submit a Pull Request using Github
+If you find something submit a pull request.
 
 License and Authors
 -------------------
