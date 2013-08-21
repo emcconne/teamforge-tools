@@ -47,7 +47,7 @@ Currently only create and update for TeamForge Tracker artifacts is supported bu
 
 Example Usage
 -------------
-     
+```     
  teamforge_tools_artifact "tracker1428" do
  	action :create
  	teamforge_url "https://teamforge_website"
@@ -67,7 +67,8 @@ teamforge_tools_artifact "artf97879" do
 	estimated_hours 10
 	comment "This is a great comment from Old Ben"
 end
-     
+```
+
 Contributing
 ------------
 If you find something submit a pull request.
